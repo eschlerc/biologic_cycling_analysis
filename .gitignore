@@ -1,1 +1,5 @@
-
+outputs/
+plots/
+test_files/
+*.mpr
+*.mps
