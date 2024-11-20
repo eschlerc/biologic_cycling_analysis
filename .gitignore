@@ -1,0 +1,7 @@
+outputs/
+plots/
+test_files/
+*.mpr
+*.mps
+stitch.txt
+.stitch.txt
